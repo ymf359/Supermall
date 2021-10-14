@@ -38,6 +38,11 @@ body {
   visibility: hidden;
 }
 
+a {
+  color: var(--color-text);
+  text-decoration: none;
+}
+
 .clear-fix {
   zoom: 1;
 }
